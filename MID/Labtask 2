@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<body>
+    <center>
+        <h1>Bank Management System</h1>
+        <h3>Your Trusted Financial Partner</h3>
+</center>  
+<p> <b>Customar Registration From </b></p> 
+
+<table>
+<tr><td>Full Name :</td>  <td><input type ="text"> </td></tr>
+<tr><td>Date of Birth:</td><td><input type ="date"></td></tr>
+
+<tr><td>Grnder :
+    <td><input type = "radio">Male
+    <input type = "radio">Female
+    <input type = "radio">Other
+</td>
+
+<tr><td>Marital Status:</td> 
+<td> <select name ="Marital Status">
+    <option value ="Single"> Single</option>
+    <option value ="Marrid"> Marride</option>
+    
+</td>
+</tr>
+
+<tr><td>Account Type:</td> 
+<td> <select name ="Account Type">
+    <option value ="Saving"> Saving </option>
+    <option value ="Deposit"> Deposit </option>
+    
+</td>
+</tr>
+
+<tr><td> Initial deposit amount :</td>  <td><input type ="text"> </td></tr>
+<tr><td>Mobile Number :</td>  <td><input type ="text"> </td></tr>
+<tr><td>Email :</td>  <td><input type ="Email"> </td></tr>
+<tr><td>Address :</td>  <td><input type ="text"> </td></tr>
+<tr><td>Occupation :</td>  <td><input type ="text"> </td></tr>
+<tr><td>National ID(NID) :</td>  <td><input type ="text"> </td></tr>
+<tr><td>Set Password:</td>  <td><input type ="password"> </td></tr>
+ <tr><td>Upload ID Proof :</td>  <td><input type ="file"> </td></tr>
+
+
+<tr><td><input type ="Checkbox"> I agree to the terms and conditions </td></tr>
+
+
+
+<tr><td></td><td><input type = "button" value = "Register" class = "register_button">
+      <input type = "button" value = "clear" class = "clear_button"></td></tr>
+
+</table>
+
+
+
+
+<style>
+
+body{
+    background-color : lightblue;
+    font-family :'Times New roman',Times,serif;
+}
+table{
+    background-color : yellow;
+    margin: 2px;
+    border: 5px;
+    padding: 10px;
+}
+
+
+.regitation_button{
+        padding: 6px;px;
+        background-color:blue;
+        color:white;
+        border:white;
+      }
+      
+      .clear_button{
+        padding: 6px;px;
+        color:white;
+        background-color:blue;
+        border:white;
+      }
+
+
+
+div{
+    width :160px;
+    height:50px;
+    border:1px solid red;
+    overflow: scroll;
+    padding:10px;
+    margin:10px;
+}
+
+</style>
+
+<div> aaaaaaaaaaa aaaaaaa  aaaaaaaaaa  addddddddddddddddd  ssssssssss</div>
+</body>
+
+</html>
