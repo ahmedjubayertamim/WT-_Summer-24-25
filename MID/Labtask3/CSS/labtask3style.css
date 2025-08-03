@@ -1,0 +1,13 @@
+table {
+    background-color: #ffffff;
+    margin:1px 50px 40px 320px;
+
+} 
+h2{
+    color :red;
+}
+p{
+    font-size: 20px;
+    color:aquamarine;
+    font-family: bold;
+}
